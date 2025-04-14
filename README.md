@@ -163,5 +163,6 @@ CODE :
 </html>
 
 
-
+OUTPUT FOR TASK 5: QUIZES_PLATFORM
+![Image](https://github.com/user-attachments/assets/b3375f0b-4fb4-442d-a325-c3cc70227fd5)
 
